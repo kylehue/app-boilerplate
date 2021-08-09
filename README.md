@@ -1,2 +1,2 @@
-# app-boilerplate
-Boilerplate for making web apps.
+# a94
+A web application where you can chat with someone anonymously.
